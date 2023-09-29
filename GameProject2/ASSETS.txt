@@ -1,0 +1,5 @@
+all game art used was created by wulax on OpenGameArt.org (https://opengameart.org/content/lpc-medieval-fantasy-character-sprites) and released under CC-BY-SA 3.0, GPL 3.0, and OGA-BY 3.0
+
+Content/Black_Ops_One/BlackOpsOne-Regular.ttf - Black Ops One font created by James Grieshaber and Eben Sorkin, released on Google Fonts (https://fonts.google.com/specimen/Black+Ops+One?query=black+) under the Open Font License
+
+the background music "Medieval Theme 02" was created by Strobotone on freemusicarchive.org (https://freemusicarchive.org/search/?quicksearch=medieval&search-genre=) and released under CC BY-ND
